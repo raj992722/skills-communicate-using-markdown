@@ -12,3 +12,6 @@ Intialised git repository in
 var name= "rohit";
 var age = 24;
 ```
+- [ x ] upload a photo
+- [ ] manage a dependency
+- [ ] write a code for server setup
